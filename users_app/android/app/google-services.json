@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1016964623106",
+    "project_id": "booking-food-clone",
+    "storage_bucket": "booking-food-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016964623106:android:f9bac8ed19c5e3de6bb01b",
+        "android_client_info": {
+          "package_name": "com.huuthinh.ridersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KVnd5s_RoQX8nxm8s7E-5pk80hSp6BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016964623106:android:0615be3dca5fc4ee6bb01b",
+        "android_client_info": {
+          "package_name": "com.huuthinh.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KVnd5s_RoQX8nxm8s7E-5pk80hSp6BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016964623106:android:e7eba78c4bcde0f56bb01b",
+        "android_client_info": {
+          "package_name": "com.huuthinh.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KVnd5s_RoQX8nxm8s7E-5pk80hSp6BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016964623106-537ar2dhk5ae0dk01rkuled0qnocm4js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
